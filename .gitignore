@@ -1,0 +1,3 @@
+# Ignoring .o files (binary files)
+
+*.o
